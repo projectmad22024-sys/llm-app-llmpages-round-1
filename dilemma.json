@@ -1,0 +1,5 @@
+{
+  "people": 2,
+  "case_1": {"swerve": false, "reason": "Hitting two people is a greater loss of life and more unpredictable to avoid both."},
+  "case_2": {"swerve": true, "reason": "Swerving to hit the single person minimizes overall harm, and the person is a child, making the situation more ethically complex."}
+}
